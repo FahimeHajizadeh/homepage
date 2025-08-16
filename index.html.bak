@@ -78,13 +78,29 @@
       <hr>
     </div>
     <div class="row">
-      <div class="col-xs-12 col-md-6"> <img src="img/about.jpg" class="img-responsive" alt=""> </div>
-      <div class="col-xs-12 col-md-6">
+      <div class="col-xs-12 col-md-4"> <img src="img/about.jpg" class="img-responsive" alt=""> </div>
+      <div class="col-xs-12 col-md-8">
         <div class="about-text">
 		
-          <p><p style="text-align: justify;"> I received my <strong>B.Sc.</strong> degree in Computer Engineering from <strong>Shahid Beheshti University</strong>, Tehran, Iran, in 2015. Following that, I pursued a master's degree in Computer Engineering (Hardware Architecture ) at <strong>Kharazmi University</strong>, which I successfully obtained in 2019. Currently, I am a <strong>Ph.D.</strong> candidate at <strong>Polytechnique Montréal, Electrical Engineering department</strong> and I am working on aircraft power systems. 
-		  <br>
-		  <p style="text-align: justify;"> My research interests are <strong>Real-Time Systems</strong>, <strong>VLSI Systems</strong> <strong>Approximate Computing</strong>, <strong>Computer Architecture</strong>, <strong>Electronic Circuits and Devices</strong>, and <strong>Hardware Acceleration</strong>. Now, I'm working on Real-time systems over FPGA.</p>
+<p style="text-align: justify;">
+  I am a <strong>Ph.D. candidate</strong> in Electrical Engineering at <strong>Polytechnique Montréal</strong>, working under the supervision of Prof. Jean-Pierre David and Prof. Tarek Ould-Bachir. My research focuses on real-time simulation of power systems using FPGA-based Frequency Dependent Network Equivalent (FDNE) models.
+</p>
+
+<p style="text-align: justify;">
+  I hold Bachelor's and Master's degrees in Computer Engineering from Iran, where I specialized in digital systems and approximate computing. My Master’s thesis, ranked top of my class, introduced an energy-efficient approximate multiplier design.
+</p>
+
+<p style="text-align: justify;">
+  My research has led to several peer-reviewed publications in leading journals and conferences, and I actively review for high-impact journals in my field.
+</p>
+
+<p style="text-align: justify;">
+  Professionally, I bring experience as an Embedded Systems Engineer and completed an internship at <strong>OPAL-RT Technologies</strong> in Montreal, contributing to FPGA and HLS-based power system modeling. My technical expertise includes HLS, VHDL, Verilog, C++, MATLAB, and Simulink.
+</p>
+
+<p style="text-align: justify;">
+  My research interests include <strong>real-time simulation</strong>, <strong>configurable hardware systems</strong>, <strong>hardware automation</strong>, and exploring the potential of <strong>AI-driven solutions</strong>.
+</p>
           <a href="https://github.com/FahimeHajizadeh/homepage/raw/main/data/fahimeh-hajizadeh-cv.pdf" class="btn btn-default btn-lg page-scroll">Download CV</a></p> </div>
       
 	    </div>
@@ -103,20 +119,18 @@
             <ul><li>
           <p><strong>Ph.D. in Electrical Engineering, University of Montréal, Polytechnique Montréal, Montréal, Canada, (Present).</strong></p>
 		  <p>Thesis title: FPGA-based FDNE Models for the Accurate Real-time Simulation of Power Systems in Aircrafts</p>
-		  <p>Under the supervision of Prof. Jean-Pierre David and co-supervision of Prof. Tarek Ould-Bachir</p>
-		  <p>GPA: 4/4</p><br>
+		  <p>Under the supervision of Prof. Jean-Pierre David and co-supervision of Prof. Tarek Ould-Bachir</p><br>
                 </li>
 		   <li>
           <p><strong>M.Sc. in Computer Engineering, Kharazmi University, Tehran, Iran, in 2019.</strong></p>
 		  <p>Thesis title: A novel design in high precision approximate multiplier by improving frequency, power consumption and area</p>
-		  <p>Under the supervision of Dr. MohammadReza Binesh Marvasti and co-supervision of Dr. Seyyed Amir Asghari</p>
-		  <p>GPA: 19.08/20</p><br>
+		  <p>Under the supervision of Dr. MohammadReza Binesh Marvasti and co-supervision of Dr. Seyyed Amir Asghari</p><br>
                 </li> 
                 <li>
           <p><strong>B.Sc. in Computer Engineering, Shahid Beheshti University, Tehran, Iran, in 2015.</strong></p>
 		  <p>Thesis title: Review and Analysis of Image Enhancement Techniques</p>
 		  <p>Under the supervision of Dr. Ahmad Mahmoudi Aznaveh</p>
-		  <p>GPA: 15.57/20</p>
+		  
                 
                 </li>
             </ul>
@@ -134,13 +148,26 @@
     <div class="intro-text">
         <div class="publication-text">
 		<ul>
+	<li><strong>F. Hajizadeh</strong>, T. Ould-Bachir, JP. David, <strong>Enhancing CuFP Library with Self-Alignment Technique</strong>, <strong>Computers</strong>,  2025, 14, 118, <a href="https://doi.org/10.3390/computers14040118">https://doi.org/10.3390/computers14040118</a>.</li>
+		</ul>
+
+		<ul>
+	<li><strong>F. Hajizadeh</strong>, T. Ould-Bachir, JP. David, <strong>CuFP: An HLS Library for Customized Floating-Point Operators</strong>, <strong>Electronics</strong>,  2024, 13, 2838, <a href="https://doi.org/10.3390/electronics13142838">https://doi.org/10.3390/electronics13142838</a>.</li>
+		</ul>
+		<ul>
           <li><strong>F. Hajizadeh</strong>, M. Binesh Marvasti, S. A. Asghari, M. Abbas Mollaei, A. M. Rahmani, <strong>Configurable DSI partitioned approximate multiplier</strong>, <strong>Future Generation Computer Systems</strong>, Volume 115, 2021, Pages 100-114, ISSN 0167-739X, <a href="https://doi.org/10.1016/j.future.2020.09.008">https://doi.org/10.1016/j.future.2020.09.008</a>.</li>
 		</ul>
 		<ul>
 		 <li><strong>F. Hajizadeh</strong>, L. Alavoine, T. Ould-Bachir, F. Sirois, JP. David, <strong>FPGA-based FDNE Models for the Accurate Real-time Simulation of Power Systems in Aircrafts</strong>, <strong>12th International conference on renewable energy research and applications</strong>, 2023, Pages 1-5, <a href="https://ieeexplore.ieee.org/abstract/document/10269418">https://doi.org/10.1109/ICRERA59003.2023.10269418</a>.</li>
 		</ul>
 		<ul>
-          <li>M. Abbasmollaeih, <strong>F. Hajizadeh</strong>, S. Mohammadi, M. Binesh Marvasti, S. A. Asghari, B. Samieiyan, <strong>A power constrained approximate multiplier with a high level of configurability</strong>, <strong>Microprocessors and Microsystems</strong>, Volume 14, 2022, <a href="https://doi.org/10.1016/j.micpro.2022.104519">https://doi.org/10.1016/j.micpro.2022.104519</a>.</li>
+          <li>B. Zolfaghari, <strong>M. Abbasmollaeih</strong>, F. Hajizadeh, N. Yanai, K. Bibak, <strong>Secure UAV (Drone) and the Great Promise of AI</strong>, <strong>ACM Computing Surveys</strong>, Volume 35, 2024, <a href="https://doi.org/10.1145/3673225">https://doi.org/10.1145/3673225</a>.</li>
+		</ul>
+		<ul>
+          <li>B. Samieiyan, P. MohammadiNasab, M. Abbasmollaeih, <strong>F. Hajizadeh</strong>, M. Kangavari, <strong>Solving dimension reduction problems for classification using Promoted Crow Search Algorithm (PCSA)</strong>, <strong>Computing</strong>, 2022 <a href=" https://doi.org/10.1007/s00607-021-01037-2"> https://doi.org/10.1007/s00607-021-01037-2</a>.</li>
+		</ul>
+		<ul>
+          <li>B. Zolfaghari, M. Abbasmollaeih, <strong>F. Hajizadeh</strong>, N. Yanai, K. Bibak, <strong>Secure UAV (Drone) and the Great Promise of AI</strong>, <strong>ACM Computing Surveys</strong>, Volume 35, 2024, <a href="https://doi.org/10.1145/3673225">https://doi.org/10.1145/3673225</a>.</li>
 		</ul>
 		<ul>
           <li>B. Samieiyan, P. MohammadiNasab, M. Abbasmollaeih, <strong>F. Hajizadeh</strong>, M. Kangavari, <strong>Solving dimension reduction problems for classification using Promoted Crow Search Algorithm (PCSA)</strong>, <strong>Computing</strong>, 2022 <a href=" https://doi.org/10.1007/s00607-021-01037-2"> https://doi.org/10.1007/s00607-021-01037-2</a>.</li>
